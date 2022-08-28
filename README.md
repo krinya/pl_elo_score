@@ -1,2 +1,2 @@
-# pl_elo_score
-ELO score calculation for English Premier League football clubs
+# Understanding the ELO rating system: A practical example using English Premier League football results using Python
+Read the related article on Medium: 
